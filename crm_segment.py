@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
+#It was previously an .ipynb file, I'd suggest converting it before running.
 """CRM_segment.ipynb
-
 """
 
 #Importing libraries
